@@ -1,4 +1,4 @@
-package br.com.cod3r.cm;
+package br.com.dev.cm;
 
 import br.com.cod3r.cm.modelo.Tabuleiro;
 import br.com.cod3r.cm.visao.TabuleiroConsole;
